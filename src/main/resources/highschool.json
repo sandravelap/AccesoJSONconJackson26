@@ -1,0 +1,53 @@
+{
+  "educationalCenter": "Advanced Technological Institute",
+  "academicYear": "2025/2026",
+  "students": [
+    {
+      "studentId": 101,
+      "name": "Ana García",
+      "email": "ana.garcia@ies.es",
+      "active": true,
+      "enrolledSubjects": [
+        {
+          "subjectName": "Data Access",
+          "code": "DA",
+          "credits": 6,
+          "finalGrade": 8.5
+        },
+        {
+          "subjectName": "Interface Development",
+          "code": "ID",
+          "credits": 6,
+          "finalGrade": 7.2
+        }
+      ]
+    },
+    {
+      "studentId": 102,
+      "name": "Luis Pérez",
+      "email": "luis.perez@ies.es",
+      "active": true,
+      "enrolledSubjects": [
+        {
+          "subjectName": "Data Access",
+          "code": "DA",
+          "credits": 6,
+          "finalGrade": 6.0
+        },
+        {
+          "subjectName": "Enterprise Management Systems",
+          "code": "EMS",
+          "credits": 4,
+          "finalGrade": 9.1
+        }
+      ]
+    },
+    {
+      "studentId": 103,
+      "name": "Marta Soto",
+      "email": "marta.soto@ies.es",
+      "active": false,
+      "enrolledSubjects": []
+    }
+  ]
+}
